@@ -5,13 +5,13 @@
     "artist": "Takeshima Eku",
     "cover": "https://i.imgur.com/RPVcXq0.png",
     "chapters": {
-        "One Shot": {
+        "0": {
             "groups": {
                 "Imgur": "/proxy/api/imgur/chapter/j8dAYwd"
             },
             "last_updated": 1624606143,
             "title": "One Shot",
-            "volume": "OS"
+            "volume": "0"
         }
     }
 }
