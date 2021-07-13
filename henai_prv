@@ -1,17 +1,15 @@
 {
-  "title": "Henai",
-  "description": "Yuri oneshot",
-  "artist": "Takeshima Eku",
-  "author": "Takeshima Eku",
-  "cover": "https://i.imgur.com/RPVcXq0.png",
+  "title": "<manga title>",
+  "description": "<manga description>",
+  "artist": "<manga artist>",
+  "author": "<manga author>",
+  "cover": "<mangacoverurl.jpg>",
   "chapters": {
-    "OS": {
-      "title": "One Shot",
-      "volume": "1",
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
       "groups": {
-        "Solelh": [
-        "/proxy/api/imgur/chapter/j8dAYwd/"
-        ]
+        "<group name>": "/proxy/api/imgur/chapter/j8dAYwd/"
       },
       "last_updated": "1616368746"
     }
