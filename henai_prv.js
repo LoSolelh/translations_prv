@@ -1,6 +1,6 @@
 {
   "title": "Henai",
-  "description": "Yuri oneshot",
+  "description": "Yuri oneshot en provençau rodanenc",
   "artist": "Takeshima Eku",
   "author": "Takeshima Eku",
   "cover": "https://i.imgur.com/RPVcXq0.png",
