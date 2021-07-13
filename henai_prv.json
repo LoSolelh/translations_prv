@@ -1,17 +1,17 @@
 {    
-    "title": "War for Rayuba: Shield Soundyear II",
-    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
-    "author": "Shield Generator 7",
-    "artist": "Shield Generator 7",
-    "cover": "https://i.imgur.com/MxxaE9O.png",
+    "title": "Henai",
+    "description": "Yuri oneshot en provençau rodanenc",
+    "author": "Takeshima Eku",
+    "artist": "Takeshima Eku",
+    "cover": "https://i.imgur.com/RPVcXq0.png",
     "chapters": {
-        "0": {
+        "One Shot": {
             "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/j8dAYwd"
+                "Solelh": "/proxy/api/imgur/chapter/j8dAYwd"
             },
             "last_updated": 1624606143,
-            "title": "Intro",
-            "volume": "1"
+            "title": "One Shot",
+            "volume": "OS"
         }
     }
 }
