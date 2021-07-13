@@ -3,13 +3,13 @@
   "description": "Yuri oneshot",
   "artist": "Takeshima Eku",
   "author": "Takeshima Eku",
-  "cover": "https://imgur.com/RPVcXq0",
+  "cover": "https://i.imgur.com/RPVcXq0.png",
   "chapters": {
     "OS": {
       "title": "One Shot",
       "volume": "0",
       "groups": {
-        "/": "/proxy/api/imgur/chapter/j8dAYwd/"
+        "Henai [OS]": "/proxy/api/imgur/chapter/j8dAYwd/"
       },
       "last_updated": "1616368746"
     }
